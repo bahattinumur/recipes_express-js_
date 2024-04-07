@@ -1,0 +1,140 @@
+[
+  {
+    "id": "asdasdf34asda43242asd",
+    "recipeName": "Lentil Soup",
+    "category": "Soup",
+    "ingredients": [
+      "1 cup red lentils",
+      "1 onion",
+      "1 carrot",
+      "1 potato",
+      "2 tablespoons vegetable oil",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1 teaspoon red pepper flakes",
+      "6 cups water",
+      "Juice of 1 lemon"
+    ],
+    "instructions": [
+      "Rinse and drain the lentils.",
+      "Dice the onion, cut the carrot and potato into small cubes.",
+      "Heat the vegetable oil in a pot, add the chopped onion and sauté until golden brown.",
+      "Add the carrot and potato, sauté for a few more minutes.",
+      "Add the lentils, pour in the water, and bring to a boil.",
+      "Once boiling, reduce the heat, cover the pot, and simmer until the lentils are tender.",
+      "Blend the soup, add salt and spices.",
+      "Serve with lemon juice."
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Lentil soup can be served with fresh bread.",
+    "image": "https://picsum.photos/501"
+  },
+  {
+    "id": "asdasda43242dsfgdfhg",
+    "recipeName": "Spaghetti Bolognese",
+    "category": "Main Course",
+    "ingredients": [
+      "400 grams spaghetti",
+      "300 grams minced meat",
+      "1 onion",
+      "2 cloves garlic",
+      "1 can (400 grams) crushed tomatoes",
+      "2 tablespoons tomato paste",
+      "1 teaspoon dried oregano",
+      "1 teaspoon dried basil",
+      "Salt and black pepper, to taste",
+      "Grated parmesan cheese for garnish"
+    ],
+    "instructions": [
+      "Cook the spaghetti according to package instructions.",
+      "In a pan, sauté finely chopped onion and crushed garlic until softened.",
+      "Add the minced meat and cook until browned.",
+      "Add crushed tomatoes, tomato paste, oregano, basil, salt, and pepper.",
+      "Simmer the sauce for 20-30 minutes until it thickens.",
+      "Serve with cooked spaghetti, sprinkle with grated parmesan cheese on top.",
+      "Enjoy your Spaghetti Bolognese!"
+    ],
+    "recipeTime": 45,
+    "servingSuggestion": "Spaghetti Bolognese can be served with garlic bread or a green salad.",
+    "image": "https://picsum.photos/500"
+  },
+  {
+    "id": "asdasdf34asda43242asd",
+    "recipeName": "Chicken and Vegetable Stir-Fry",
+    "category": "Main Course",
+    "ingredients": [
+      "400 grams chicken breast, diced",
+      "1 red bell pepper, diced",
+      "1 green bell pepper, diced",
+      "1 carrot, julienned",
+      "1 cup broccoli florets",
+      "2 cloves garlic, crushed",
+      "3 tablespoons soy sauce",
+      "1 tablespoon honey",
+      "2 tablespoons sesame oil",
+      "2 tablespoons vegetable oil"
+    ],
+    "instructions": [
+      "Heat a pan over medium heat and cook the chicken in vegetable oil until browned.",
+      "Remove the chicken from the pan and heat sesame oil in the same pan.",
+      "Add diced bell peppers, carrot, broccoli, and crushed garlic, and sauté until slightly tender.",
+      "Once the vegetables are soft, add the chicken back to the pan.",
+      "Add soy sauce and honey, stir and cook for a few more minutes.",
+      "Serve hot, garnish with sesame seeds if desired."
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Serve hot, can be served with rice or noodles.",
+    "image": "https://picsum.photos/510"
+  },
+  {
+    "id": "asdasda43242dsfgdfhg",
+    "recipeName": "Spinach and Cheese Pastry",
+    "category": "Pastry",
+    "ingredients": [
+      "Phyllo dough (as desired)",
+      "300 grams spinach, chopped",
+      "200 grams white cheese",
+      "1 egg",
+      "1/2 cup milk",
+      "2 tablespoons vegetable oil",
+      "Salt and pepper, to taste"
+    ],
+    "instructions": [
+      "Sauté the spinach in vegetable oil, add salt and pepper.",
+      "Once the spinach has cooled, add crumbled white cheese and mix well.",
+      "Spread the phyllo dough on a surface, brush with milk and egg mixture.",
+      "Fill with the spinach and cheese mixture and roll it up.",
+      "Place the prepared pastries on a baking sheet lined with parchment paper.",
+      "Bake in a preheated 180°C oven until golden brown on top.",
+      "Serve warm or hot."
+    ],
+    "recipeTime": 45,
+    "servingSuggestion": "Serve warm.",
+    "image": "https://picsum.photos/509"
+  },
+  {
+    "id": "sdfg23423sdfgsdfj",
+    "recipeName": "Yogurt and Zucchini Soup",
+    "category": "Soup",
+    "ingredients": [
+      "3 medium zucchinis, diced",
+      "1 onion, diced",
+      "2 cloves garlic, crushed",
+      "1 liter vegetable or chicken broth",
+      "1 cup yogurt",
+      "2 tablespoons olive oil",
+      "Salt and pepper, to taste"
+    ],
+    "instructions": [
+      "Sauté the onion and garlic in olive oil until softened.",
+      "Add diced zucchinis and sauté for a few more minutes.",
+      "Add the vegetable broth and bring to a boil, simmer until the zucchinis are tender.",
+      "Blend the soup, add yogurt and mix well.",
+      "Season with salt and pepper.",
+      "Serve hot, drizzle with a few drops of olive oil on top."
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Serve hot.",
+    "image": "https://picsum.photos/502"
+  }
+]
