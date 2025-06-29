@@ -8,7 +8,7 @@
 
 - CSS
 
-- JavaScript
+- TypeScript
 
 <h2> Libraries </h2>
 
